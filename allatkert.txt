@@ -1,2 +1,4 @@
-medve
 foka
+papagaj
+gorilla
+teve
