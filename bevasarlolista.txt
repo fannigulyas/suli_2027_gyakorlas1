@@ -2,3 +2,5 @@ tej
 tojas
 kenyer
 csoki
+cukor
+asvanyviz
